@@ -1,2 +1,2 @@
 # Hello-World
-start to learning python and make mistakes!
+start learning python and make mistakes!
